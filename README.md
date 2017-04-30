@@ -9,6 +9,8 @@ I am following Exercise 6 of [JS30](http://www.javascript30.com) to practice:
 * Writing regex to match text.
 * Formatting matched text by replacing it with interpolated HTML to highlight it
 
+![screenshot](screen1.png)
+
 To do:
 
 I would like to pull out the lat/long data and display it in a map with the Google Javascript API
